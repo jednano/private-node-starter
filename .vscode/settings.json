@@ -3,7 +3,6 @@
   "files.associations": {
     ".eslintrc.json": "jsonc"
   },
-  "jest.rootPath": "src",
   "search.exclude": {
     "**/coverge": true,
     "**/node_modules": true
